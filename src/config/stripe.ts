@@ -18,7 +18,7 @@ export const PLANS = [
     quota: 50,
     pagesPerPdf: 25,
     price: {
-      amount: 14.0,
+      amount: 10.0,
       priceIds: {
         test: process.env.STRIPE_PRICE_ID!,
         production: "",
